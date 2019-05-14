@@ -1,6 +1,6 @@
 # Fuga do Calabouço
 
-This is a very simple puzzle game for Windows written in BlitzBasic.
+This is a very simple puzzle game for Windows written in BlitzBasic a loooong time ago.
 
 Move the blocks to find the exit.
 
